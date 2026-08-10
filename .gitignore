@@ -1,0 +1,26 @@
+# --- Sensitive / generated data: NEVER commit these ---
+neft_data.db
+neft_data.db-journal
+printed_vouchers/
+*.csv
+neft_backup_*.db
+
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+venv/
+env/
+
+# --- PyInstaller build output ---
+build/
+dist/
+*.spec.bak
+
+# --- OS / editor cruft ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
