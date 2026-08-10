@@ -36,7 +36,7 @@ only" / signature / acknowledgement section.
 
 ### Option A — just run the exe (no Python needed)
 
-Grab `NEFTApp.exe` from [Releases](https://github.com/saifullahjalwathee/cbi-neft-voucher-tool/releases/tag/v1.0.0) (once published), copy it
+Grab `NEFTApp.exe` from [Releases](https://github.com/saifullahjalwathee/cbi-neft-voucher-tool/releases/tag/v1.0.0), copy it
 anywhere on a Windows PC, and double-click. Windows SmartScreen will show an
 "Unknown publisher" warning the first time since the exe isn't code-signed —
 click **More info → Run anyway**.
